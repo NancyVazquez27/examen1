@@ -12,8 +12,11 @@ public class Estacionamiento
     
     public int ingresar()
     {
-      for(int i; i< estacionamiento.length;i++)
+        
+        
+      for(int i=0;  i < estacionamiento.length;i++)
       {
+          estacionamiento[i]=auto;
         }
     }
     
