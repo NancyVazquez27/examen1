@@ -16,12 +16,12 @@ public class Carro
         return(placas);
     }
     
-    public int dimeHoras()
+    public int dimeHorasE()
     {
         return(horas);
     }
     
-    public int dimeMinutos()
+    public int dimeMinutosE()
     {
         return(minutos);
     }
